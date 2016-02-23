@@ -1,0 +1,31 @@
+
+
+
+
+<iframe src="https://sketchfab.com/models/44ac97f652284c74aa26ba9a5c6420f5/embed" width="640" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+
+UPDATE mysql.user SET Password=PASSWORD('gavroche84') WHERE User='root';
+
+
+exprimezsuperuser
+U1ykOjYJ!2T4wK^0gq
+
+euro2016superuser
+l$dtvbU!V^UGYcJdJU
+
+FTP
+user: u83659921
+pass: StPaTnYh4&
+
+Nom de la base de données :	db614869507
+Nom du serveur de la base de données :	db614869507.db.1and1.com
+Port :	3306
+Nom d'utilisateur :	dbo614869507
+Description :	euro2016-live
+
+Akismet key
+c20ea6ca3c30
+
+
+é è
